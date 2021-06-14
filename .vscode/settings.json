@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "wheel.h": "c",
+        "type_traits": "c"
+    }
+}
